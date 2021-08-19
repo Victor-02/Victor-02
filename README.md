@@ -1,3 +1,3 @@
 - 👋 Olá, me chamo Victor
 - 👀 Meu objetivo é aprender cada vez mais sobre programação
-- 🌱 Atualmente, estudo PHP, JavaScrip e Java
+- 🌱 Atualmente, estudo Java, JavaScript e Node.js
